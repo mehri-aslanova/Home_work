@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+    gap: 30px;
+}
+
+.box {
+    background-color: chartreuse;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+}
